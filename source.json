@@ -5,8 +5,8 @@
         "email": "yueby_sp@qq.com",
         "name": "Yueby"
     },
-    "url":"https://github.com/Yueby/vpm-listing",
-    "description": "VPM-Compatible repo for Yueby's packages",
+    "url":"https://yueby.github.io/vpm-listing/index.json",
+    "description": "Yueby listing of VRChat packages",
     "infoLink": {
         "url": "https://github.com/Yueby/vpm-listing",
         "text": "View on GitHub"
