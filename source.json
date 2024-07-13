@@ -14,7 +14,9 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
-        "Yueby/AvatarTools"
+        "Yueby/YuebyTools-AvatarTools",
+        "Yueby/YuebyTools-Core",
+        "Yueby/YuebyTools-PackageImporter"
     ],
     "packages": []
 }
