@@ -6,7 +6,7 @@
         "name": "Yueby",
         "url": "https://vrchat.com/home/user/usr_46f8246a-cc33-4b0b-8428-1f7ef09fd8b0"
     },
-    "url":"https://yueby.github.io/vpm-listing/index.json",
+    "url": "https://yueby.github.io/vpm-listing/index.json",
     "description": "Yueby listing of VRChat packages",
     "infoLink": {
         "url": "https://github.com/Yueby/vpm-listing",
@@ -16,7 +16,8 @@
     "githubRepos": [
         "Yueby/YuebyTools-AvatarTools",
         "Yueby/YuebyTools-Core",
-        "Yueby/YuebyTools-PackageImporter"
+        "Yueby/YuebyTools-PackageImporter",
+        "Yueby/YuebyTools-EditorExtender"
     ],
     "packages": []
 }
