@@ -14,10 +14,12 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
-        "Yueby/YuebyTools-AvatarTools",
-        "Yueby/YuebyTools-Core",
-        "Yueby/YuebyTools-PackageImporter",
-        "Yueby/YuebyTools-EditorExtender"
+		"Yueby/Editor-Core",
+		"Yueby/Avatar-Toolbox",
+        "Yueby/Editor-Extender",
+        "Yueby/Mirror-Tool",
+        "Yueby/Package-Importer",
+        "Yueby/NcmLyrics",
     ],
     "packages": []
 }
