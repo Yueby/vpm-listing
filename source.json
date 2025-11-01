@@ -20,7 +20,8 @@
         "Yueby/Mirror-Tool",
         "Yueby/Package-Importer",
         "Yueby/NcmLyrics",
-	"Yueby/QuickAction",
+		"Yueby/QuickAction",
+		"Yueby/SyncDarkMode",
     ],
     "packages": []
 }
